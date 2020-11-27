@@ -246,8 +246,16 @@ class LootSheet5eNPC extends ActorSheet5eNPC {
 
             let itemQtyRoll = new Roll(itemQtyFormula);
             itemQtyRoll.roll();
-            //console.log(`Loot Sheet | Adding ${itemQtyRoll.result} x ${newItem.name}`)
+            console.log(`Loot Sheet | Adding ${itemQtyRoll.result} x ${newItem.name}`)
             newItem.data.data.quantity = itemQtyRoll.result;
+
+            // Mark results as drawn, if replacement is not used and we are not in a Compendium pack
+            if ( !rolltable.data.replacement && !rolltable.compendium) {
+                //const draws = rolltable._getResultsForRoll(roll.total);
+                await rolltable.updateEmbeddedEntity("TableResult", rollResult.results.map(r => {
+                return {_id: r._id, drawn: true};
+                }));
+            }
 
             await this.actor.createEmbeddedEntity("OwnedItem", newItem);
         }
