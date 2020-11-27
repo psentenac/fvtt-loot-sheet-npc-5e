@@ -244,10 +244,20 @@ class LootSheet5eNPC extends ActorSheet5eNPC {
                 return ui.notifications.error(`No item found "${rollResult.results[0].resultId}".`);
             }
 
-            let itemQtyRoll = new Roll(itemQtyFormula);
+            let myitemQtyFormula
+            if (rolltable.flags["better-rolltables"] & results[0].flags["better-rolltables"]["brt-result-formula"])
+            {
+                myitemQtyFormula = results[0].flags["better-rolltables"]["brt-result-formula"]
+            }
+            else
+            {
+                myitemQtyFormula = itemQtyFormula
+            }
+            let itemQtyRoll = new Roll(myitemQtyFormula);
             itemQtyRoll.roll();
             console.log(`Loot Sheet | Adding ${itemQtyRoll.result} x ${newItem.name}`)
             newItem.data.data.quantity = itemQtyRoll.result;
+            
 
             // Mark results as drawn, if replacement is not used and we are not in a Compendium pack
             if ( !rolltable.data.replacement && !rolltable.compendium) {
@@ -258,6 +268,10 @@ class LootSheet5eNPC extends ActorSheet5eNPC {
             }
 
             await this.actor.createEmbeddedEntity("OwnedItem", newItem);
+        }
+        if ( !rolltable.data.replacement && !rolltable.compendium)
+        {
+            rolltable.reset()
         }
     }
 
