@@ -11,6 +11,6 @@
 	"styles": ["/css/lootsheetnpc5e.css"],
 	"socket": true,
 	"url": "https://github.com/psentenac/fvtt-loot-sheet-npc-5e",
-	"manifest": "https://raw.githubusercontent.com/psentenac/fvtt-loot-sheet-npc-5e/blob/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/psentenac/fvtt-loot-sheet-npc-5e/master/module.json",
 	"download": "https://github.com/psentenac/fvtt-loot-sheet-npc-5e/archive/master.zip"
 }

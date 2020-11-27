@@ -245,7 +245,7 @@ class LootSheet5eNPC extends ActorSheet5eNPC {
             }
 
             let myitemQtyFormula
-            if (rolltable.flags["better-rolltables"] & results[0].flags["better-rolltables"]["brt-result-formula"])
+            if (rolltable.data.flags["better-rolltables"] & results[0].flags["better-rolltables"]["brt-result-formula"])
             {
                 myitemQtyFormula = results[0].flags["better-rolltables"]["brt-result-formula"]
             }
