@@ -1,0 +1,2103 @@
+{
+  "_id": "a4XBWr1aOavVwUGN",
+  "name": "Adventuring Gear",
+  "sort": 100001,
+  "flags": {
+    "better-rolltables": {
+      "table-type": "better",
+      "loot-amount-key": "99"
+    },
+    "exportSource": {
+      "world": "forgottenrealms",
+      "system": "dnd5e",
+      "coreVersion": "0.7.7",
+      "systemVersion": "1.1.1"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Adventuring Gear Folder.",
+  "results": [
+    {
+      "_id": "LgkzkXTXYd20gDOP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Abacus",
+      "img": "/systems/dnd5e/icons/items/inventory/trinket-loop.jpg",
+      "collection": "Item",
+      "resultId": "g4Ndf2Am5v4aJU1l",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cnr6ALcFozT1RQVl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Acid (vial)",
+      "img": "systems/dnd5e/icons/items/potions/grand-green.jpg",
+      "collection": "Item",
+      "resultId": "DkY5yDOepVVQ62Th",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5Ccw6CIq4dwTWFPh",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Alchemist's Fire",
+      "img": "/systems/dnd5e/icons/items/potions/grand-yellow.jpg",
+      "collection": "Item",
+      "resultId": "RUMbQmJnml1PUUJC",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0QweFxnegDUuHkMe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Amulet",
+      "img": "/systems/dnd5e/icons/items/jewelry/amulet-blue.jpg",
+      "collection": "Item",
+      "resultId": "KhpEzZ6qrQQBmqzU",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "t32Iflbki4idkFES",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Antitoxin",
+      "img": "/systems/dnd5e/icons/items/potions/grand-violet.jpg",
+      "collection": "Item",
+      "resultId": "liptzZHD2oC9rDLK",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MJPQ07DXbDy6Qcwu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*20"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Arrows",
+      "img": "/systems/dnd5e/icons/items/weapons/arrows.jpg",
+      "collection": "Item",
+      "resultId": "834xckTWFeioKubg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jjA3BTccxKLyxsOb",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Backpack",
+      "img": "/systems/dnd5e/icons/items/inventory/backpack.jpg",
+      "collection": "Item",
+      "resultId": "NNXXYk6n9ki8pCRk",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "91LTzSLsu2CykuL7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*1000"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Ball Bearings",
+      "img": "/systems/dnd5e/icons/items/inventory/element-earth.jpg",
+      "collection": "Item",
+      "resultId": "lfuTF70iqNqGvPi6",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "1D6PL8O53EcEAeKT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Barrel",
+      "img": "/systems/dnd5e/icons/items/inventory/barrel.jpg",
+      "collection": "Item",
+      "resultId": "FiCfxJEYzmaEq68e",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9c19dXvXodhp5UtC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Basic Poison",
+      "img": "/systems/dnd5e/icons/items/potions/unique-7.jpg",
+      "collection": "Item",
+      "resultId": "axacyii9f9NMU2WI",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JJl71H10x66jE6lD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Basket",
+      "img": "/systems/dnd5e/icons/items/inventory/cage.jpg",
+      "collection": "Item",
+      "resultId": "8RKBoOCkccHGORgC",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "87jsgxuY2cVRQN0F",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Bedroll",
+      "img": "/systems/dnd5e/icons/items/inventory/cloth-blue.jpg",
+      "collection": "Item",
+      "resultId": "7hWMhCdpxcjq9EgZ",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Fd7cQ0iGmoUVJ6AF",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Bell",
+      "img": "/systems/dnd5e/icons/items/inventory/bell_brass.jpg",
+      "collection": "Item",
+      "resultId": "4gJLydrAH1ePwnMc",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UZuHLTJ59dyy3pXS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Blanket",
+      "img": "/systems/dnd5e/icons/items/inventory/cloth-green.jpg",
+      "collection": "Item",
+      "resultId": "p7Bs9pGWChjwn9H5",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0ErdBEyH2cUteWoP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Block and Tackle",
+      "img": "/systems/dnd5e/icons/items/inventory/tool-hook.jpg",
+      "collection": "Item",
+      "resultId": "miB1kPfss0YTuvEQ",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "K3wh0WZoJeW19PvE",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*50"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Blowgun Needle",
+      "img": "/systems/dnd5e/icons/items/weapons/dart.png",
+      "collection": "Item",
+      "resultId": "MLrb2VIjpYNlzY5O",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eOyKY1IxPe1ZGFhh",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Book",
+      "img": "/systems/dnd5e/icons/items/inventory/book-diary.jpg",
+      "collection": "Item",
+      "resultId": "VVkgvfLYVVXkEP3S",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "grXTlwYM9zwiSVsu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Bucket",
+      "img": "/systems/dnd5e/icons/items/inventory/tankard-empty.jpg",
+      "collection": "Item",
+      "resultId": "yfuH8H2NS6Mozow8",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OblvOIczH2IqIkDT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Bullseye Lantern",
+      "img": "/systems/dnd5e/icons/items/inventory/lantern.jpg",
+      "collection": "Item",
+      "resultId": "cMmEeSrR7d33j6zH",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "heFam9YIC9JRrlwX",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*20"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Caltrops",
+      "img": "/systems/dnd5e/icons/items/inventory/caltrop.jpg",
+      "collection": "Item",
+      "resultId": "F4oFWihpdE1nBH1C",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TN0ktXF9Y77s13bH",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Candle",
+      "img": "/systems/dnd5e/icons/items/inventory/candle.jpg",
+      "collection": "Item",
+      "resultId": "xUz1Is7uodxIrvBx",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4zBXctMJ4WTHc7bM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Chain (10 feet)",
+      "img": "systems/dnd5e/icons/items/weapons/whip.png",
+      "collection": "Item",
+      "resultId": "I6ZW6znuwNALgQOa",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4qV4asGC0Bnb3yv1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Chalk",
+      "img": "/systems/dnd5e/icons/items/inventory/monster-bones.jpg",
+      "collection": "Item",
+      "resultId": "5PuWivLvlQqkweJC",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HasTBjIyZmW7ghhM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Chest",
+      "img": "/systems/dnd5e/icons/items/inventory/chest-dark.jpg",
+      "collection": "Item",
+      "resultId": "eoUitntrqQSsYMAs",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "zS4yBnv3UFMAKKuY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Climber's Kit",
+      "img": "/systems/dnd5e/icons/items/inventory/tool-hook.jpg",
+      "collection": "Item",
+      "resultId": "wvz7SqL689RVjhBC",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iHhaPQ1hKruL0bVe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Common Clothes",
+      "img": "/systems/dnd5e/icons/items/equipment/tunic.jpg",
+      "collection": "Item",
+      "resultId": "J4WO9sJDsDbj45Pq",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tW00H6NYz1EJBxKT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Component Pouch",
+      "img": "/systems/dnd5e/icons/items/inventory/satchel-leather.jpg",
+      "collection": "Item",
+      "resultId": "A3xgTeskcdcRy56n",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HTm2LVLtzWKFQ1kp",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Costume Clothes",
+      "img": "/systems/dnd5e/icons/items/equipment/cloak-pink.jpg",
+      "collection": "Item",
+      "resultId": "8h9stlq7B4DLmAIt",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Qyv0iWIOOn39Zio3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*20"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Crossbow Bolt",
+      "img": "/systems/dnd5e/icons/items/weapons/bolt.png",
+      "collection": "Item",
+      "resultId": "pUKE606YhpP0nrVf",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fWcoxvgN418tCfyQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Crossbow Bolt Case",
+      "img": "/systems/dnd5e/icons/items/weapons/arrows.jpg",
+      "collection": "Item",
+      "resultId": "TW7J1qRC99Vl0XH3",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Iwj3mHPnKMXi6kZ9",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Crowbar",
+      "img": "/systems/dnd5e/icons/items/weapons/pick.jpg",
+      "collection": "Item",
+      "resultId": "vF9ZYEMPE3PNmlFZ",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iBFajCEVb0fvbHGB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Crystal",
+      "img": "/systems/dnd5e/icons/items/weapons/crystal.png",
+      "collection": "Item",
+      "resultId": "cYiYXn6hBXLA6V2w",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XVqHmcJxvm6uspKD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Emblem",
+      "img": "/systems/dnd5e/icons/items/inventory/badge-sun.jpg",
+      "collection": "Item",
+      "resultId": "5RqFsQvSz3AQT7wA",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "R4iDUx0kVIysGxRg",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Fine Clothes",
+      "img": "/systems/dnd5e/icons/items/equipment/cloak-fur.jpg",
+      "collection": "Item",
+      "resultId": "HikB53WXBarsdSPQ",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RjiNYjmNLC6R4j7A",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Fishing Tackle",
+      "img": "/systems/dnd5e/icons/skills/gray_10.jpg",
+      "collection": "Item",
+      "resultId": "nyaN76Pt07A6FO4a",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "W2KCshvhzZiIPspL",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Flask",
+      "img": "/systems/dnd5e/icons/items/inventory/flask-dark.jpg",
+      "collection": "Item",
+      "resultId": "Ofl5t0zKRVkeARMz",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dlPw6QfgNvW6CMaY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Flask of Holy Water",
+      "img": "/systems/dnd5e/icons/items/potions/minor-empty.jpg",
+      "collection": "Item",
+      "resultId": "SIFOHy4kHl1wFt8y",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8eJ2al750PBLcI2i",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Glass Bottle",
+      "img": "/systems/dnd5e/icons/items/inventory/bottle-empty.jpg",
+      "collection": "Item",
+      "resultId": "x8vlf89ShiTC8VuE",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bjz3mPZRO5mwBNKc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Grappling Hook",
+      "img": "/systems/dnd5e/icons/items/inventory/tool-hook.jpg",
+      "collection": "Item",
+      "resultId": "Lws6SpEKI09e4S8s",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fun5mNYZXGGJKy8W",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Hammer",
+      "img": "/systems/dnd5e/icons/items/inventory/hammer.jpg",
+      "collection": "Item",
+      "resultId": "OMHM31Etik3L0Xgb",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xiEdR3HpSSGKMfLf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Healer's Kit",
+      "img": "/systems/dnd5e/icons/items/inventory/herb-bag.jpg",
+      "collection": "Item",
+      "resultId": "J53W3kdCYUetJ7O6",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BbR06yYLv4zun8EC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Hempen Rope (50 ft.)",
+      "img": "systems/dnd5e/icons/items/inventory/rope.jpg",
+      "collection": "Item",
+      "resultId": "Ox9vgSC86N6tPbok",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XPUwXmbjtrXoFcuc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Hooded Lantern",
+      "img": "/systems/dnd5e/icons/items/inventory/lantern.jpg",
+      "collection": "Item",
+      "resultId": "bFhrM0R40NryW0xb",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QH55fgQ4F762Dydv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Hourglass",
+      "img": "/systems/dnd5e/icons/items/inventory/stopwatch.jpg",
+      "collection": "Item",
+      "resultId": "N2XX4dEsThHI01HR",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eI4zbCRP1T4WJC6G",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Hunting Trap",
+      "img": "/systems/dnd5e/icons/skills/green_14.jpg",
+      "collection": "Item",
+      "resultId": "4OVhA28kVaRGmCvZ",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GX3kpmEZQWrFU2HV",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Ink Bottle",
+      "img": "/systems/dnd5e/icons/items/inventory/bottle-empty.jpg",
+      "collection": "Item",
+      "resultId": "EyST5iTHpDniDTiK",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "O9tN7ebLQlQMMlse",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Ink Pen",
+      "img": "/systems/dnd5e/icons/items/inventory/feather-red.jpg",
+      "collection": "Item",
+      "resultId": "0O0C4IeqWH3TihE5",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OeNcisUTi6ESxRtt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Iron Pot",
+      "img": "/systems/dnd5e/icons/items/inventory/cauldron.jpg",
+      "collection": "Item",
+      "resultId": "upMewhQM9Xvj1CDl",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WTevkAeqf6aVNdrO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Iron Spike",
+      "img": "/systems/dnd5e/icons/items/inventory/stake.jpg",
+      "collection": "Item",
+      "resultId": "Zr8aD3eZTXingjbR",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7fPARfTctSMGErYo",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Jug",
+      "img": "/systems/dnd5e/icons/items/inventory/jug.jpg",
+      "collection": "Item",
+      "resultId": "DiPpAQif909Zl9BY",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5NAExfXZEpKipZCF",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Ladder (10-foot)",
+      "img": "systems/dnd5e/icons/items/inventory/wood.jpg",
+      "collection": "Item",
+      "resultId": "ASiv68qHL6YHDfes",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "63mCWvhsvINBo4Fc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Lamp",
+      "img": "/systems/dnd5e/icons/items/inventory/lamp.jpg",
+      "collection": "Item",
+      "resultId": "o2fZxadspFdHzaPh",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2tiMiDLCSXovi9hu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Lock",
+      "img": "/systems/dnd5e/icons/items/inventory/lock.jpg",
+      "collection": "Item",
+      "resultId": "FVr5DkgNfE99rVk3",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mXT7i6H6DTYWBwm3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Magnifying Glass",
+      "img": "/systems/dnd5e/icons/items/inventory/mechanical-part.jpg",
+      "collection": "Item",
+      "resultId": "meDW5fZSU00ps4Jb",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VkjdgMEbdRaubM9A",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Manacles",
+      "img": "/systems/dnd5e/icons/items/weapons/whip.png",
+      "collection": "Item",
+      "resultId": "gzO2ALfswzyk17eG",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "y2pPROZuNWtr6IWv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Map or Scroll Case",
+      "img": "/systems/dnd5e/icons/items/inventory/briefcase.jpg",
+      "collection": "Item",
+      "resultId": "wVzHyh9OKwB45pKV",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CVYnPoVidJgDEPEv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Merchant's Scale",
+      "img": "/systems/dnd5e/icons/items/inventory/coins-silver.jpg",
+      "collection": "Item",
+      "resultId": "J9ksK3qisrV5nzaM",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hbsvCCElApCBjhqY",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Mess Kit",
+      "img": "/systems/dnd5e/icons/items/inventory/fork.jpg",
+      "collection": "Item",
+      "resultId": "ew2ryWOMMxoyUwxy",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZQNxKFOBWupVyn8m",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Miner's Pick",
+      "img": "/systems/dnd5e/icons/items/inventory/pickaxe.jpg",
+      "collection": "Item",
+      "resultId": "tSyHeSa8KnnG4rVE",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IQXTSMjJXnoZJGnS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Oil Flask",
+      "img": "/systems/dnd5e/icons/items/inventory/bottle-empty.jpg",
+      "collection": "Item",
+      "resultId": "uS5JT7QTlbNUCm7X",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OvuWnCe00Mm1ZVVZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Orb",
+      "img": "/systems/dnd5e/icons/items/inventory/pearl.jpg",
+      "collection": "Item",
+      "resultId": "ExViH1StznbbTtYB",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YXhpN6GqKfCXzlgE",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Paper",
+      "img": "/systems/dnd5e/icons/items/inventory/paper.jpg",
+      "collection": "Item",
+      "resultId": "sq4FHkaGHJpFvdfc",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NKkY5mhdM2ZgM57X",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Parchment",
+      "img": "/systems/dnd5e/icons/items/inventory/parchment.jpg",
+      "collection": "Item",
+      "resultId": "3SxV9339udmviPTn",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3iT7fQCFjO4iVQ4p",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Perfume",
+      "img": "/systems/dnd5e/icons/items/potions/unique-2.jpg",
+      "collection": "Item",
+      "resultId": "cCUS6vpi625FOrc1",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PP2zm8TdbnzcfUwi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Piton",
+      "img": "/systems/dnd5e/icons/items/inventory/stake.jpg",
+      "collection": "Item",
+      "resultId": "IzGymZbbzHgR6mvX",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZW235gO6lLRCXq9s",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Pole",
+      "img": "/systems/dnd5e/icons/items/inventory/wood.jpg",
+      "collection": "Item",
+      "resultId": "JzTITZLKFe1zgsTV",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "avGMIw474Cpyj8sB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Portable Ram",
+      "img": "/systems/dnd5e/icons/items/inventory/bamboo.jpg",
+      "collection": "Item",
+      "resultId": "Vuew0eZYOyXYnNgD",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qxJjpbTS6ALONx9L",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Potion of Healing",
+      "img": "/systems/dnd5e/icons/items/potions/minor-red.jpg",
+      "collection": "Item",
+      "resultId": "PtddhE56hIcMOdRy",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JslbMXoNSjiw2jvG",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Pouch",
+      "img": "/systems/dnd5e/icons/items/inventory/pouch.jpg",
+      "collection": "Item",
+      "resultId": "of5IRgtzT75wGUdR",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "WQbiDfskrjcN3ekp",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Quiver",
+      "img": "/systems/dnd5e/icons/items/weapons/arrows.jpg",
+      "collection": "Item",
+      "resultId": "bu87hgE7e3EZhEUX",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "swPAPfy1RkYzmhBJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Rations",
+      "img": "/systems/dnd5e/icons/items/inventory/meat.jpg",
+      "collection": "Item",
+      "resultId": "0pQBc8WZ2SsRyCPv",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "u0D6RK984CjupA25",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Reliquary",
+      "img": "/systems/dnd5e/icons/items/inventory/chest-red.jpg",
+      "collection": "Item",
+      "resultId": "1x3WgVzjceoAzGAF",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MkhgTE9wiUiEyShW",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Robes",
+      "img": "/systems/dnd5e/icons/items/armor/robe.jpg",
+      "collection": "Item",
+      "resultId": "S1iBejxhTewatosZ",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "G4oqODBrzGIHA1fK",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Rod",
+      "img": "/systems/dnd5e/icons/items/weapons/rod.jpg",
+      "collection": "Item",
+      "resultId": "hfwg0IneIRU7uOHN",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lm9C55T4cJN0cDwJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Sack",
+      "img": "/systems/dnd5e/icons/items/inventory/sack.jpg",
+      "collection": "Item",
+      "resultId": "zltRGf34I8N8h862",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MBqdbCeVQsTu0AqW",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Sealing Wax",
+      "img": "/systems/dnd5e/icons/items/inventory/candle-melted.jpg",
+      "collection": "Item",
+      "resultId": "x53AmP5xPJmxjUtX",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "u0ZZ5VjvRCq9sFhy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Shovel",
+      "img": "/systems/dnd5e/icons/items/inventory/pickaxe.jpg",
+      "collection": "Item",
+      "resultId": "pAlV4qarBV3oW1Ef",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9Haum4QDNW6TarPf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Signal Whistle",
+      "img": "/systems/dnd5e/icons/items/inventory/trinket-carving.jpg",
+      "collection": "Item",
+      "resultId": "iO4ykqr4PajLuR5A",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "S4gY3rjqcg1QGpEk",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Signet Ring",
+      "img": "/systems/dnd5e/icons/items/jewelry/ring-orange.jpg",
+      "collection": "Item",
+      "resultId": "tWHTpNUv11enbeov",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UoidiMrUqictZNQo",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Silk Rope (50 ft.)",
+      "img": "systems/dnd5e/icons/items/inventory/rope.jpg",
+      "collection": "Item",
+      "resultId": "iJ1gCFVXz7xmnvaw",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eGnRMray7KCSDjbL",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Sledgehammer",
+      "img": "/systems/dnd5e/icons/items/inventory/hammer.jpg",
+      "collection": "Item",
+      "resultId": "uIUvetJOp7WG7zA5",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "K3ASz83SCUfWnHnT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d10*20"
+          }
+        }
+      },
+      "type": 1,
+      "text": "Sling Bullet",
+      "img": "systems/dnd5e/icons/items/weapons/bullet.jpg",
+      "collection": "Item",
+      "resultId": "boO3047ZwGIipzP4",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "STRlcsjODTPKSben",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Soap",
+      "img": "/systems/dnd5e/icons/items/inventory/soap.jpg",
+      "collection": "Item",
+      "resultId": "6wIQ4AHZhCXXwlpt",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OkR3jkFaxztjr7FO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Spellbook",
+      "img": "/systems/dnd5e/icons/items/inventory/book-purple.jpg",
+      "collection": "Item",
+      "resultId": "SJEFBIgkZieX7lxq",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9ScTlTE6lcjowhIa",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Sprig of Mistletoe",
+      "img": "/systems/dnd5e/icons/items/inventory/plant-leaf.jpg",
+      "collection": "Item",
+      "resultId": "pQEkhipdTAUViibL",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kBfaoeZN5QSsnXXs",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Spyglass",
+      "img": "/systems/dnd5e/icons/skills/emerald_11.jpg",
+      "collection": "Item",
+      "resultId": "gX2GjQVoVPv3soRE",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "94T0GESKEVLkVJBP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Staff",
+      "img": "/systems/dnd5e/icons/items/weapons/staff-blue.jpg",
+      "collection": "Item",
+      "resultId": "wfArHj9jAdCmwX0x",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nzIQR4WbFHT4Ps3T",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Steel Mirror",
+      "img": "/systems/dnd5e/icons/items/inventory/badge-coin.jpg",
+      "collection": "Item",
+      "resultId": "SC3KRDVS32teo7M3",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IkgMJKwD157u5QBm",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Tinderbox",
+      "img": "/systems/dnd5e/icons/items/inventory/torch.jpg",
+      "collection": "Item",
+      "resultId": "0om8JMh92UufUQxO",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "c5VKVruDQZhzlonf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Torch",
+      "img": "/systems/dnd5e/icons/items/inventory/torch.jpg",
+      "collection": "Item",
+      "resultId": "yjJod8STxDYbRgGF",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fxFok04wjJ8YUmhT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Totem",
+      "img": "/systems/dnd5e/icons/items/jewelry/necklace-teeth.jpg",
+      "collection": "Item",
+      "resultId": "OZbZ4VYr0lVoE5XQ",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D1Gfcp2RrHFAhArQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Traveler's Clothes",
+      "img": "/systems/dnd5e/icons/items/equipment/tunic.jpg",
+      "collection": "Item",
+      "resultId": "dftRAWMjafif9oly",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OLXbMabMfRWsRrco",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Two-Person Tent",
+      "img": "/systems/dnd5e/icons/items/inventory/cloth-green.jpg",
+      "collection": "Item",
+      "resultId": "daRWyEokYkmP758v",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "64ytYhtClX5MdM4p",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Vial",
+      "img": "/systems/dnd5e/icons/items/inventory/bottle-empty.jpg",
+      "collection": "Item",
+      "resultId": "63vG16F9qYo3H6tA",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QTb45c4KJf1DTPJE",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Wand",
+      "img": "/systems/dnd5e/icons/items/weapons/staff-green.jpg",
+      "collection": "Item",
+      "resultId": "8WijhlIC2LGueiXZ",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hVTK9JSUniVORGP7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Waterskin",
+      "img": "/systems/dnd5e/icons/items/inventory/waterskin.jpg",
+      "collection": "Item",
+      "resultId": "tbLnMbfrKHReAN3h",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lUWCw4BXeJsRtJs4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Whetstone",
+      "img": "/systems/dnd5e/icons/items/inventory/whetstone.jpg",
+      "collection": "Item",
+      "resultId": "l7ExCbWFRDONjvKc",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "alkCATphVA8IpwrS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Wooden Staff",
+      "img": "/systems/dnd5e/icons/items/weapons/staff-vine.jpg",
+      "collection": "Item",
+      "resultId": "ymA0FXTz0Mc6fJwQ",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KtsdkxJ7JmdhsDV6",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "type": 1,
+      "text": "Yew Wand",
+      "img": "/systems/dnd5e/icons/items/weapons/staff.png",
+      "collection": "Item",
+      "resultId": "W9EM39KBQGHDJSDC",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d99",
+  "replacement": false,
+  "displayRoll": false
+}

@@ -244,19 +244,18 @@ class LootSheet5eNPC extends ActorSheet5eNPC {
                 return ui.notifications.error(`No item found "${rollResult.results[0].resultId}".`);
             }
 
-            let myitemQtyFormula
-            if (rolltable.data.flags["better-rolltables"] & results[0].flags["better-rolltables"]["brt-result-formula"])
+            let myitemQtyFormula = itemQtyFormula
+            if (rolltable.data.flags["better-rolltables"] != null & rollResult.results[0].flags["better-rolltables"]["brt-result-formula"] != null)
             {
-                myitemQtyFormula = results[0].flags["better-rolltables"]["brt-result-formula"]
-            }
-            else
-            {
-                myitemQtyFormula = itemQtyFormula
+                if (rollResult.results[0].flags["better-rolltables"]["brt-result-formula"].formula)
+                {
+                    myitemQtyFormula = rollResult.results[0].flags["better-rolltables"]["brt-result-formula"].formula
+                }
             }
             let itemQtyRoll = new Roll(myitemQtyFormula);
             itemQtyRoll.roll();
-            console.log(`Loot Sheet | Adding ${itemQtyRoll.result} x ${newItem.name}`)
-            newItem.data.data.quantity = itemQtyRoll.result;
+            console.log(`Loot Sheet | Adding ${itemQtyRoll.total} x ${newItem.name}`)
+            newItem.data.data.quantity = itemQtyRoll.total;
             
 
             // Mark results as drawn, if replacement is not used and we are not in a Compendium pack
