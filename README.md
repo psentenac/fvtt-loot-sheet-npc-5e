@@ -1,3 +1,14 @@
+# Another fork ? What did you do !
+
+I just wanted to solve this bug : Make merchant settings account for "Draw with Replacement?" option in rollable tables https://github.com/jopeek/fvtt-loot-sheet-npc-5e/issues/49
+
+Bonus feature :
+    - If you had a formulae in the better table, it will use this. 
+    - Else it will use the forumlae in the Merchant forms.
+I thought it would be useful for things like Arrows (20) or Ball Bearings (1000)
+
+PS : Because i can't code properly without breaking anything, i added a dependency to https://github.com/ultrakorne/better-rolltables as a failsafe.
+
 # Loot Sheet NPC 5E
 
 This module adds an additional NPC sheet which can be used for loot containers such as chests. It also allows spells to be automatically converted into spell scrolls by dragging them onto this sheet. 
