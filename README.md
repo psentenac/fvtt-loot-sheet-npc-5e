@@ -4,7 +4,7 @@ I just wanted to solve this bug : [Make merchant settings account for "Draw with
 
 Bonus feature :<br/>
     - If you had a formulae in the better table, it will use it.</br>
-    - Else it will use the forumlae in the Merchant forms.<br/>
+    - Else it will use the formulae in the Merchant form.<br/>
 I thought it would be useful for things like Arrows (20) or Ball Bearings (1000)
 
 # Loot Sheet NPC 5E
