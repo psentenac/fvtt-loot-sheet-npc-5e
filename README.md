@@ -1,10 +1,10 @@
 # Another fork ? What did you do !
 
-I just wanted to solve this bug : Make merchant settings account for "Draw with Replacement?" option in rollable tables https://github.com/jopeek/fvtt-loot-sheet-npc-5e/issues/49
+I just wanted to solve this bug : [Make merchant settings account for "Draw with Replacement?" option in rollable tables ](https://github.com/jopeek/fvtt-loot-sheet-npc-5e/issues/49)
 
-Bonus feature :
-    - If you had a formulae in the better table, it will use this. 
-    - Else it will use the forumlae in the Merchant forms.
+Bonus feature :<br/>
+    - If you had a formulae in the better table, it will use this.</br>
+    - Else it will use the forumlae in the Merchant forms.<br/>
 I thought it would be useful for things like Arrows (20) or Ball Bearings (1000)
 
 # Loot Sheet NPC 5E
