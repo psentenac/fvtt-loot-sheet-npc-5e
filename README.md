@@ -3,7 +3,7 @@
 I just wanted to solve this bug : [Make merchant settings account for "Draw with Replacement?" option in rollable tables ](https://github.com/jopeek/fvtt-loot-sheet-npc-5e/issues/49)
 
 Bonus feature :<br/>
-    - If you had a formulae in the better table, it will use this.</br>
+    - If you had a formulae in the better table, it will use it.</br>
     - Else it will use the forumlae in the Merchant forms.<br/>
 I thought it would be useful for things like Arrows (20) or Ball Bearings (1000)
 
