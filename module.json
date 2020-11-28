@@ -12,11 +12,5 @@
 	"socket": true,
 	"url": "https://github.com/psentenac/fvtt-loot-sheet-npc-5e",
 	"manifest": "https://raw.githubusercontent.com/psentenac/fvtt-loot-sheet-npc-5e/master/module.json",
-	"download": "https://github.com/psentenac/fvtt-loot-sheet-npc-5e/archive/master.zip",
-	"dependencies": [
-		{
-		  "name": "better-rolltables",
-		  "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
-		}
-	]
+	"download": "https://github.com/psentenac/fvtt-loot-sheet-npc-5e/archive/master.zip"
 }
